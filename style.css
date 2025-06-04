@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(125, 93, 42);
+}
+
+header {
+    background-color: rgb(207, 210, 9);
+    color: rgba(51, 48, 103, 0.701);
+    padding: 2rem;
+    text-align: center;
+}
+header h1{
+    color: rgb(1, 111, 9);
+   
+}
+
+header p{
+    color:rgb(24, 145, 16);
+   
+}
+.imagem img {
+    
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+.tema {
+    padding: 2rem;
+    background-color: rgb(25, 76, 218);
+    max-width: 800px;
+    margin: 2rem auto;
+    
+}
+
+.tema h2 {
+    color:red;
+    margin-top: 1.5rem;
+}
+
+.tema p {
+    color:yellow;
+    margin-top: 1.5rem;
+    font-size: 18px;
+
+}
+
+footer {
+    background-color: rgb(215, 195, 20);
+    color: rgb(0, 17, 255);
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
